@@ -1,0 +1,15 @@
+.foto{
+	margin: 0 auto;
+	width: 60%
+}
+
+.table-dark{
+
+    background:silver;
+}
+
+.row [class^="col"]{
+	background:rgba(233,132,250,0.5);
+	border: 0.1em solid #F166EC;
+	padding: 0.5em;
+}
